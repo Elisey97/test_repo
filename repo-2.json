@@ -1,0 +1,142 @@
+{
+    "name": "Elisey.D source",
+    "identifier": "com.elisey.d",
+    "subtitle": "Best iOS ipa source",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "iconURL": "https://www.dropbox.com/scl/fi/h7ou1podc0vbpbx4fz6hg/icon_source.png?rlkey=po577n3qyzpvjgz3x7b88zdeo&dl=0",
+    "headerURL": "https://www.dropbox.com/scl/fi/h7ou1podc0vbpbx4fz6hg/icon_source.png?rlkey=po577n3qyzpvjgz3x7b88zdeo&dl=0",
+    "website": "https://t.me/eliseyd",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        "com.elisey.rirstapp",
+        "com.elisey.secondapp"
+    ],
+    "apps": [
+        {
+            "name": "First App of EliseyD",
+            "bundleIdentifier": "com.eliseyd.com",
+            "developerName": "ELiseyD",
+            "subtitle": "The best iOS app fro my source",
+      "localizedDescription": "Черт пойми что написать, но это збс прила",
+      "iconURL": "https://www.dropbox.com/scl/fi/h7ou1podc0vbpbx4fz6hg/icon_source.png?rlkey=po577n3qyzpvjgz3x7b88zdeo&dl=0",
+            "tintColor": "#5CA399",
+      "screenshotURLs": [
+                "https://www.dropbox.com/scl/fi/h7ou1podc0vbpbx4fz6hg/icon_source.png?rlkey=po577n3qyzpvjgz3x7b88zdeo&dl=0",
+                "https://www.dropbox.com/scl/fi/h7ou1podc0vbpbx4fz6hg/icon_source.png?rlkey=po577n3qyzpvjgz3x7b88zdeo&dl=0",
+                "https://www.dropbox.com/scl/fi/h7ou1podc0vbpbx4fz6hg/icon_source.png?rlkey=po577n3qyzpvjgz3x7b88zdeo&dl=0"
+            ],
+            "versions": [
+                {
+                    "version": "0.1.0(a)",
+                    "date": "2022-05-01T09:00:00-08:00",
+          "size": 20000000,
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.3.4/UTM.ipa",
+          "localizedDescription": "Best iOS app for Russians",
+          "minOSVersion": "12.0"},
+                {
+                    "version": "1.0.1",
+                    "date": "2022-03-16T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.3.4/UTM.ipa",
+          "localizedDescription": "BEta release"
+                }
+            ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "com.apple.developer.siri"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "App saves photos to your Photo Library."
+          }
+        ]
+      }
+    },
+        {
+            "name": "Second fucking app",
+            "bundleIdentifier": "com.example.anotherapp",
+            "developerName": "EliseyD",
+            "subtitle": "Another awesome app.",
+      "localizedDescription": "This is another awesome app only available on AltStore.",
+      "iconURL": "https://www.dropbox.com/scl/fi/h7ou1podc0vbpbx4fz6hg/icon_source.png?rlkey=po577n3qyzpvjgz3x7b88zdeo&dl=0",
+            "tintColor": "#3660A2",
+      "screenshotURLs": [
+                "https://www.dropbox.com/scl/fi/h7ou1podc0vbpbx4fz6hg/icon_source.png?rlkey=po577n3qyzpvjgz3x7b88zdeo&dl=0",
+                "https://www.dropbox.com/scl/fi/h7ou1podc0vbpbx4fz6hg/icon_source.png?rlkey=po577n3qyzpvjgz3x7b88zdeo&dl=0",
+                "https://www.dropbox.com/scl/fi/h7ou1podc0vbpbx4fz6hg/icon_source.png?rlkey=po577n3qyzpvjgz3x7b88zdeo&dl=0"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2022-06-21T09:00:00-08:00",
+                    "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.3.4/UTM.ipa",
+          "localizedDescription": "Bug fixes and performance improvements."
+                ,
+          "size": 81514,
+          "minOSVersion": "13.0"
+        },
+                {
+                    "version": "1.1",
+                    "date": "2022-04-15T10:00:00-08:00",
+                    "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.3.4/UTM.ipa",
+          "localizedDescription": "New features!"
+                ,
+          "size": 81364,
+          "minOSVersion": "13.0",
+                    "maxOSVersion": "16.3"
+        },
+                {
+                    "version": "1.0",
+                    "date": "2022-02-02T07:00:00-08:00",
+                    "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.3.4/UTM.ipa",
+          "localizedDescription": "Initial release.",
+          "size": 79821
+        }
+            ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "com.apple.developer.siri"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "App scans the local network for nearby computers."
+          }
+        ]
+      }
+    }
+    ],
+    "news": [
+  {
+    "title": "Плюшк, шлюшки и тд",
+    "identifier": "new_feature",
+    "caption": "Introducing a new feature in AltStore!",
+    "date": "2023-03-15",
+    "tintColor": "#5CA399",
+    "imageURL": "https://www.dropbox.com/scl/fi/h7ou1podc0vbpbx4fz6hg/icon_source.png?rlkey=po577n3qyzpvjgz3x7b88zdeo&dl=0",
+    "notify": true,
+    "url": "https://t.me/eliseyd"
+    },
+  {
+    "title": "Прила обновлена",
+    "identifier": "app_update",
+    "caption": "An update is available for My Example App.",
+    "date": "2023-03-10T10:00:00-07:00",
+    "tintColor": "#3660A2",
+    "imageURL": "https://www.dropbox.com/scl/fi/h7ou1podc0vbpbx4fz6hg/icon_source.png?rlkey=po577n3qyzpvjgz3x7b88zdeo&dl=0",
+    "notify": false,
+      "appID": "com.eliseyd.com"
+  }
+  ]
+}
